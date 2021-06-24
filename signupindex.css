@@ -1,0 +1,30 @@
+body{
+    font-family: 'Roboto';
+}
+#banner_image{
+    background-color:black;
+    padding-top:75px;
+    padding-bottom:50px;
+    text-align:center;
+    color:#f8f8f8;
+    height:740px;
+    background:url(img/intro-bg_1.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.container2{
+    margin-top:7%;
+    margin-left:36%;
+}
+
+
+
+
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+    position:fixed;
+}
